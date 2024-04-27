@@ -3,13 +3,12 @@ import './styles.css';
 
 const Header = () => (
   <header className='home-header'>
-    <h2>Inc. This Morning</h2>
+    <h2>React Blog Project</h2>
     <h1>
       <span>“</span> Blog <span>”</span>
     </h1>
     <p>
-      awesome place to make oneself <br /> productive and entertained through
-      daily updates.
+      A place to get daily updates.<br />  Know what's growing.
     </p>
   </header>
 );
